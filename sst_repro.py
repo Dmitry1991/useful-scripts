@@ -1,5 +1,5 @@
 
-# This script is intended to reproject the input NASA Sea Surfece Temperature (SST) satellite images in netCDF format to the chosen projection using gdal library
+# This script is intended to reproject the input NASA Sea Surface Temperature (SST) satellite images in netCDF format to the chosen projection using gdal library
 # Pay attentinon to the input and output folders, there are placeholders there!!!
 
 from datetime import datetime
